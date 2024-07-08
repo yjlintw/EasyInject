@@ -1,0 +1,11 @@
+{
+  "name": "yjl.easyinject",
+  "displayName": "EasyInject",
+  "description": "A simple dependency injection framework for Unity using attributes",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "author": {
+    "name": "Yu-Jen Lin",
+    "email": "yjlin5210@gmail.com"
+  }
+}
